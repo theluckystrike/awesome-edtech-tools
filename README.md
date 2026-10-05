@@ -446,6 +446,7 @@ If you are familiar with [Github](https://github.com/hkalant/EducationalToolsRes
 * [Tagboard](https://tagboard.com/)
 
 ### Utilities
+- [TinyTelegramToolsBot](https://t.me/TinyTelegramToolsBot) - Free Telegram mini app utility bots: bill splitting, countdown days, habit streaks and a focus timer - each with a public guide library at tg.zovo.one
 * [Place it](https://placeit.net/)
 * [Linkpack](https://linkpack.io)
 * [Quotes Cover](https://quotescover.com)
